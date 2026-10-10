@@ -1,21 +1,25 @@
-# Ordinary Tech Studio
+<p align="center">
+  <img src="assets/logo.jpg" alt="Ordinary Tech Studio Logo" width="96" style="border-radius: 20px;">
+</p>
 
-```
-   ____          ___                      ______          __       _____ __             ___     
-  / __ \________/ (_)___  ____ ________  /_  __/__  _____/ /_     / ___// /___  ______/ (_)___  
- / / / / ___/ __  / / __ \/ __ `/ ___/ / / / / _ \/ ___/ __ \    \__ \/ __/ / / / __  / / __ \ 
-/ /_/ / /  / /_/ / / / / / /_/ / /    /_/ / /  __/ /__/ / / /   ___/ / /_/ /_/ / /_/ / / /_/ / 
-\____/_/   \__,_/_/_/ /_/\__,_/_/       /_/  \___/\___/_/ /_/   /____/\__/\__,_/\__,_/_/\____/  
-```
+<h1 align="center">Ordinary Tech Studio</h1>
+<p align="center">
+  <strong>Spatial Digital Twins &amp; Organic Semiconductor Intelligence</strong>
+</p>
 
-### Spatial Digital Twins & Organic Semiconductor Intelligence
+<p align="center">
+  <img src="assets/banner.jpg" alt="Ordinary Tech Studio Spatial Twin Lab Setup and Hologram" width="100%" style="border-radius: 12px;">
+</p>
 
-Ordinary Tech Studio is a frontier deep-tech research studio pioneering the convergence of **flexible organic thermoelectric semiconductors**, **spatial augmented reality (AR) digital twins**, and **autonomous neural reasoning agents** powered by **Anthropic Claude 3.5 Sonnet**.
-
-🌐 **Official Portal**: [ordinary-tech-studio.github.io](https://ordinary-tech-studio.github.io)  
-📫 **Research Inquiries**: [ordinarytechstudio@ordinarydayss.com](mailto:ordinarytechstudio@ordinarydayss.com)
+<p align="center">
+  <a href="https://ordinary-tech-studio.github.io"><strong>🌐 Live Web Portal &amp; Simulator</strong></a> &bull;
+  <a href="https://github.com/Ordinary-Tech-Studio/thermoelectric-spatial-twin"><strong>📦 Python SDK Repository</strong></a> &bull;
+  <a href="mailto:ordinarytechstudio@ordinarydayss.com"><strong>📫 Contact Lab</strong></a>
+</p>
 
 ---
+
+Ordinary Tech Studio is a frontier deep-tech research studio pioneering the convergence of **flexible organic thermoelectric semiconductors**, **spatial augmented reality (AR) digital twins**, and **autonomous neural reasoning agents** powered by **Anthropic Claude 3.5 Sonnet**.
 
 ### 🔬 Core Research Domains
 
